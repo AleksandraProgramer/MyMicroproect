@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Console_Pattern_Trenka\Console_Pattern_Trenka\bin\Debug\Console_Pattern_Trenka.exe.config
+C:\Users\User\source\repos\Console_Pattern_Trenka\Console_Pattern_Trenka\bin\Debug\Console_Pattern_Trenka.exe
+C:\Users\User\source\repos\Console_Pattern_Trenka\Console_Pattern_Trenka\bin\Debug\Console_Pattern_Trenka.pdb
+C:\Users\User\source\repos\Console_Pattern_Trenka\Console_Pattern_Trenka\obj\Debug\Console_Pattern_Trenka.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Console_Pattern_Trenka\Console_Pattern_Trenka\obj\Debug\Console_Pattern_Trenka.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Console_Pattern_Trenka\Console_Pattern_Trenka\obj\Debug\Console_Pattern_Trenka.exe
+C:\Users\User\source\repos\Console_Pattern_Trenka\Console_Pattern_Trenka\obj\Debug\Console_Pattern_Trenka.pdb

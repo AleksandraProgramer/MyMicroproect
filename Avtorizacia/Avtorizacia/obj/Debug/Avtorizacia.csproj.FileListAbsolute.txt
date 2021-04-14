@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Avtorizacia\Avtorizacia\bin\Debug\Avtorizacia.exe.config
+C:\Users\User\source\repos\Avtorizacia\Avtorizacia\bin\Debug\Avtorizacia.exe
+C:\Users\User\source\repos\Avtorizacia\Avtorizacia\bin\Debug\Avtorizacia.pdb
+C:\Users\User\source\repos\Avtorizacia\Avtorizacia\obj\Debug\Avtorizacia.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Avtorizacia\Avtorizacia\obj\Debug\Avtorizacia.Form1.resources
+C:\Users\User\source\repos\Avtorizacia\Avtorizacia\obj\Debug\Avtorizacia.Properties.Resources.resources
+C:\Users\User\source\repos\Avtorizacia\Avtorizacia\obj\Debug\Avtorizacia.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Avtorizacia\Avtorizacia\obj\Debug\Avtorizacia.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Avtorizacia\Avtorizacia\obj\Debug\Avtorizacia.exe
+C:\Users\User\source\repos\Avtorizacia\Avtorizacia\obj\Debug\Avtorizacia.pdb
+C:\Users\User\source\repos\Avtorizacia\Avtorizacia\obj\Debug\Avtorizacia.Form2.resources

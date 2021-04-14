@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ConsoleApp1Tipi_Dannix\ConsoleApp1Tipi_Dannix\bin\Debug\ConsoleApp1Tipi_Dannix.exe.config
+C:\Users\User\source\repos\ConsoleApp1Tipi_Dannix\ConsoleApp1Tipi_Dannix\bin\Debug\ConsoleApp1Tipi_Dannix.exe
+C:\Users\User\source\repos\ConsoleApp1Tipi_Dannix\ConsoleApp1Tipi_Dannix\bin\Debug\ConsoleApp1Tipi_Dannix.pdb
+C:\Users\User\source\repos\ConsoleApp1Tipi_Dannix\ConsoleApp1Tipi_Dannix\obj\Debug\ConsoleApp1Tipi_Dannix.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp1Tipi_Dannix\ConsoleApp1Tipi_Dannix\obj\Debug\ConsoleApp1Tipi_Dannix.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp1Tipi_Dannix\ConsoleApp1Tipi_Dannix\obj\Debug\ConsoleApp1Tipi_Dannix.exe
+C:\Users\User\source\repos\ConsoleApp1Tipi_Dannix\ConsoleApp1Tipi_Dannix\obj\Debug\ConsoleApp1Tipi_Dannix.pdb
